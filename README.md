@@ -1,2 +1,2 @@
-# VR_Cardboard_Food_Flight
- Trabajo Final Simulación por computadora
+# Food_Flight
+ Para la asignatura de Simulación por computadora por Lizardi Gómez José de Jesús
