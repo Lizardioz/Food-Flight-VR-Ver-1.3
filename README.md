@@ -1,2 +1,2 @@
-# Basic_Gameplay_Food_Flight
- Trabajo 09 Mini Unity
+# VR_Cardboard_Food_Flight
+ Trabajo Final Simulación por computadora
